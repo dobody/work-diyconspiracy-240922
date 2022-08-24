@@ -1,6 +1,8 @@
 # work-diyconspiracy-240922
 Poster files for a DIY Conspiracy event
 
+![main image](index4.png)
+
 Poster made with GIMP 2.10.32, processed through p5js, laid out in scribus.
 
 ### Depends on:
